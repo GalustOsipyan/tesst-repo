@@ -6,4 +6,3 @@ let spanish = 'Ce pasa ci';
 
 let second = 'Second added';
 let master = 'Modified';
-let wrong = 'For wrong commit';
