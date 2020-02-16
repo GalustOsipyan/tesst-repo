@@ -1,7 +1,7 @@
-const test = 'test'
+const test = 'test';
 
-let songLyrics = `Akapulko ay ay ay`
+let songLyrics = `Akapulko ay ay ay`;
 
-let spanish = 'Ce pasa ci'
+let spanish = 'Ce pasa ci';
 
-let msater = 'Here is only master baby'
+let master = 'Here is only master baby';
